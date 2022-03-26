@@ -6,7 +6,7 @@ using namespace std;
 
 const int N = 1010;
 
-
+// https://www.acwing.com/problem/content/2/
 // n is the amount of items
 int n, capacity;
 int dp[N][N];
@@ -34,7 +34,6 @@ int solution2() {
 		}
 	}
 	cout << dp2[capacity] << endl;
-	This is a beginner's repository, I'll start with the basics
 
 
 	return 0;
