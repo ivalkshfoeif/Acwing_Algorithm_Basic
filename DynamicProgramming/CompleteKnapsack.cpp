@@ -40,6 +40,6 @@ int solution2() {
 int main() {
 	cin >> n >> m;
 	for (int i = 1; i <= n; i++) cin >> v[i] >> w[i];
-	solution2();
+	solution1();
 	return 0;
 }
